@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "Mjfr25@gmail.com",
+		"password": "@@@Raazahmed",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,10 +18,10 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [100004670494586],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": [],
+		"whiteListIds": [100004670494586],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
@@ -37,18 +37,18 @@
 		"autoRefreshThreadInfoFirstTime": true,
 		"notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
 	},
-	"timeZone": "Asia/Ho_Chi_Minh",
+	"timeZone": "Asia/Dhaka",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "mrahmanrbd3@gmail.com",
+			"clientId": "948774979210-s8rp194fgiv3umhnee8q9c0qfafos7jn.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04sQ3PxJltMMcCgYIARAAGAQSNwF-L9IrBkrmwKHyVbPc1JoIXHnW9BGcLUPwGwaxI58zGh2EvL286hPulGMCWMrZpXBOLK5aXlY",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LeNrR4pAAAAADNkAoPZ0V7by4qF_i2q9gmU19ZM",
+			"secretKey": "6LeNrR4pAAAAAMZz4e-oEQiv6ZYqNtJqr2zQphvc"
 		}
 	},
 	"dashBoard": {
